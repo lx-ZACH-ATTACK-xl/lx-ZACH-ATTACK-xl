@@ -39,3 +39,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lx-ZACH-ATTACK-xl&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 
+<a href="https://app.daily.dev/zachattack"><img src="https://api.daily.dev/devcards/v2/uzKYLPT6aSEfQCdSQpw1B.png?type=wide&r=23b" width="652" alt="Zach C's Dev Card"/></a>
