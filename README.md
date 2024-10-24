@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/lx-ZACH-ATTACK-xl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate backend web developer,creative mechatronics engineer, creating robust and scalable web applications, and designing mechanisms for FRC and VRC robotics competitions. Skilled in back-end technologies, with a keen eye for user experience and performance optimization, and exceptional at  CAD design in Solidworks, with a focus on efficiency. </h3>**
+ **<h3 align="left">🚀 Passionate backend web developer, creative mechatronics engineer, creating robust and scalable web applications, and designing mechanisms for FRC and VRC robotics competitions. Skilled in back-end technologies, with a keen eye for user experience and performance optimization, and exceptional at  CAD design in Solidworks, with a focus on efficiency. </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
