@@ -20,7 +20,7 @@
 -  I'm currently working on: ** Developing CAD Libraries for mechanical robot design **
 -  I'm currently learning: ** C#, NX, Catia**
 -  Ask me about: ** Solidworks, Onshape, C++, Python, and Unix/Linux**
-- ⚡ Fun fact: ** I participate in VEX and FRC robotics competitions (CAD mechanics)**
+-  Fun fact: ** I participate in VEX and FRC robotics competitions (CAD mechanics)**
 -  Portfolio: **<a href="https://www.coursera.org/learner/zachc" target="_blank">https://www.coursera.org/learner/zachc</a>**
 
  **<h3 align="left">Skills</h3>**
